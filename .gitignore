@@ -2,3 +2,11 @@ avall.mdb
 events.csv
 .ipynb_checkpoints/
 ntsb-accident-pred-extended.ipynb
+
+# month-05-tennis-coach — regeneratable artifacts, not versioned
+month-05-tennis-coach/data/
+month-05-tennis-coach/keypoints.parquet
+month-05-tennis-coach/yolov8n.pt
+month-05-tennis-coach/pose_landmarker_lite.task
+month-05-tennis-coach/*.mp4
+month-05-tennis-coach/misclassified_smash_clips/
